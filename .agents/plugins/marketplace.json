@@ -1,0 +1,15 @@
+{
+  "name": "emil-chatgpt-skills",
+  "interface": {
+    "displayName": "Emil Kowalski Skills"
+  },
+  "plugins": [
+    {
+      "name": "emil-skills",
+      "source": {
+        "source": "local",
+        "path": "./plugins/emil-skills"
+      }
+    }
+  ]
+}
