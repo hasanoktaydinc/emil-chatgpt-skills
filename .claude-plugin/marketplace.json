@@ -1,0 +1,14 @@
+{
+  "name": "emil-chatgpt-skills",
+  "owner": {
+    "name": "Hasan Dinç"
+  },
+  "plugins": [
+    {
+      "name": "emil-skills",
+      "description": "Emil Kowalski design and animation skills",
+      "version": "1.0.0",
+      "source": "./plugins/emil-skills"
+    }
+  ]
+}
